@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44c1bf6d-162c-4e2a-9277-2b40c467a7cf" name="变更" comment="" />
+    <list default="true" id="44c1bf6d-162c-4e2a-9277-2b40c467a7cf" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order800/src/main/java/com/xue/springcloud/controller/TestContriller.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -132,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658907191967</updated>
       <workItem from="1658907193472" duration="5733000" />
-      <workItem from="1658987078419" duration="16423000" />
+      <workItem from="1658987078419" duration="16772000" />
     </task>
     <task id="LOCAL-00001" summary="cloud">
       <created>1659011711926</created>
@@ -148,11 +155,29 @@
       <option name="project" value="LOCAL" />
       <updated>1659011857819</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cloud">
+      <created>1659012097400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659012097400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cloud" />
