@@ -18,6 +18,16 @@
 
 
     <dependencies>
+        <!--        引入自己定义的api通用抱 -->
+        <dependency>
+            <groupId>com.xue.springcloud</groupId>
+            <artifactId>cloud-api-commons</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
 
 
 <!--        <dependency>-->
